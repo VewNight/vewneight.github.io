@@ -1,8 +1,8 @@
-<!-- _coverpage.md -->
+<!-- _coverpage.md 首页 -->
 
 <!-- ![logo](_media/icon.svg) -->
 
-# Wang Junwei <small>`s Blog</small>
+# 高雄<small>`s Blog</small>
 
 > 开源文档
 
